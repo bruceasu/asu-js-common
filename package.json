@@ -1,0 +1,27 @@
+{
+  "name": "asu-js-common",
+  "version": "1.0.0",
+  "description": "asu common javascript utils.",
+  "main": "./dist/index.bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node node_modules/webpack/bin/webpack.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruceasu/asu-js-common.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Bruce Asu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bruceasu/asu-js-common/issues"
+  },
+  "homepage": "https://github.com/bruceasu/asu-js-common#readme",
+  "devDependencies": {
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6"
+  }
+}
