@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/bruceasu/asu-js-common#readme",
   "devDependencies": {
-    "webpack": "^4.39.1",
-    "webpack-cli": "^3.3.6"
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   }
 }
